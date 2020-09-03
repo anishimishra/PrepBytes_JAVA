@@ -20,7 +20,7 @@ import java.util.*;
       //write your code here
       Scanner sc=new Scanner(System.in);
       int t=sc.nextInt();
-      while(t-->0)
+      while(t-->0) //run a loop and keep on adding power of three till variable>=N
       {
         long n=sc.nextLong();
         long pow=3;
@@ -30,7 +30,7 @@ import java.util.*;
           sum+=pow;
           pow=pow*3;
         }
-        while(pow>0)
+        while(pow>0) //then run a loop and subtract the extra power with condition that number should remain >=N
         {
           if(sum-pow>=n)
             sum-=pow;
