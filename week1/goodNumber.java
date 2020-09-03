@@ -20,12 +20,12 @@ import java.util.*;
       //write your code here
       Scanner sc=new Scanner(System.in);
       int t=sc.nextInt();
-      while(t-->0) //run a loop and keep on adding power of three till variable>=N
+      while(t-->0) 
       {
         long n=sc.nextLong();
         long pow=3;
         long sum=1;
-        while(sum<n)
+        while(sum<n)  //run a loop and keep on adding power of three till variable>=N
         {
           sum+=pow;
           pow=pow*3;
