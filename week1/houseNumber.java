@@ -17,7 +17,7 @@ import java.util.*;
       }
     }
   }
-//can be also done by using the following code
+//can also be done by using the following code
 import java.util.*;
   import java.io.*;
   
