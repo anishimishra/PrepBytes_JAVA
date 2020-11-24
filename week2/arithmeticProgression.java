@@ -59,6 +59,5 @@ f1[3] = 4-2=2 , f2[3]=t, f3[3]=4
 f1[1] = 6-0 = 6, f2[1]=t , f3[1] =6
 f1[1] = 7-6 =1, but the previous difference was 6, so f2[1]=f
 for all f2[] true, print their f1[]*/
-/*why did we take array sizes 100001 and what is o?
-are storing element frq
-read about hashing*/
+/*why did we take array sizes 100001
+are storing element frq and constraint is given 10 raised to the power of 5 as 1 ≤ n ≤ 10to the power 5*/
