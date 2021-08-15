@@ -1,0 +1,12 @@
+//https://www.prepbytes.com/panel/mycourses/program-one/dsalgo/week/9/queues/codingAssignment/RVRSEQU
+
+import java.util.*;
+  import java.io.*;
+  
+  public class Main {
+    public static void main(String args[]) throws IOException {
+      
+      //write your code here
+      
+    }
+  }
